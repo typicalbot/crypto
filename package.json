@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/typicalbot/crypto.get"
+        "url": "git+https://github.com/typicalbot/crypto.git"
     },
     "bugs": {
         "url": "https://github.com/typicalbot/crypto/issues"
