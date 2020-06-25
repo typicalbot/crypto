@@ -36,6 +36,10 @@
         "lint-staged": "^10.2.11",
         "typescript": "^3.9.5"
     },
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/"
+    },
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged",
